@@ -17,7 +17,7 @@ The key interests of our group include:
 To know more about us, visit [research](https://hanhinevalab.com/research) and
 [publications](https://hanhinevalab.com/publications) pages on our website.
 Also, check out our outreach material on
-[GitHub](https://github.com/hanhineva-lab/Presentations).
+[GitHub](https://github.com/hanhineva-lab/outreach).
 
 # Team
 
